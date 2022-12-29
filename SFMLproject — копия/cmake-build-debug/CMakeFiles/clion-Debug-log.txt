@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_OSX_ARCHITECTURES:STRING=arm64 -G Ninja -S /Users/sonya/Desktop/C++/SFMLproject -B /Users/sonya/Desktop/C++/SFMLproject/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/sonya/Desktop/C++/SFMLproject/cmake-build-debug
